@@ -15,7 +15,3 @@
 * [JPA](undefined/jpa.md)
 * [Docker](undefined/docker.md)
 * [알고리즘](undefined/undefined.md)
-
-***
-
-* [development\_note](<README (1).md>)
