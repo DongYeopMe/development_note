@@ -11,6 +11,7 @@
     * [Page 5](undefined/framework/spring/page-5.md)
     * [Page 6](undefined/framework/spring/page-6.md)
     * [Page 7](undefined/framework/spring/page-7.md)
+    * [teset](undefined/framework/spring/test.md)
 * [Page](undefined/page.md)
 * [JPA](undefined/jpa.md)
 * [Docker](undefined/docker.md)
