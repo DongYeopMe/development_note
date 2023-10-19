@@ -192,6 +192,7 @@ public class Main{
 ## 순환 참조
 
 ![순환참조](https://github.com/mo2-Study-Group/StudyGroup/assets/70151275/fd511dcc-5a14-4a04-bd7d-babcf701503e)
+
 프로젝트 규모가 커지게 되면 의존성 주입을 서로 하게 되면서 순환 참조가 일어나게 된다.
 
 - 생성자 주입은 앱 구동 단계에서 스프링이 오류를 찾아낸다.
