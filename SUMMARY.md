@@ -19,9 +19,9 @@
   * [상속 관계매핑](JPA/상속관계매핑.md)
   * [값타입](JPA/값타입.md)
   * [객체지향 쿼리 소개, JPQL](JPA/객체지향쿼리소개,JPQL.md)
-  * [스프링 데이터 JPA](JPA/스프링 데이터 JPA.md)
-  * [고급 주제와 성능 최적화](JPA/고급 주제와 성능 최적화.md)
-  * [트랜잭션과 락,2차 캐시](JPA/트랜잭션과 락,2차캐시)
+  * [스프링 데이터 JPA](JPA/스프링데이터JPA.md)
+  * [고급 주제와 성능 최적화](JPA/고급주제와성능최적화.md)
+  * [트랜잭션과 락,2차 캐시](JPA/트랜잭션과락,2차캐시)
   
 * [DesignPattern](DesignPattern/README.md)
    * [데코레이터패턴](DesignPattern/데코레이터패턴.md)
