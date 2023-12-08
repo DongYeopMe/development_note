@@ -13,6 +13,16 @@
     * [비동기처리](FrameWork/Spring/비동기처리.md)
     * [필터,인터셉터](FrameWork/Spring/필터,인터셉터.md)
 * [JPA](JPA/README.md)
+  * [JPA란](JPA/JPA란.md)
+  * [엔티티매핑](JPA/엔티티매핑.md)
+  * [연관 관계매핑기초](JPA/연관관계매핑기초.md)
+  * [상속 관계매핑](JPA/상속관계매핑.md)
+  * [값타입](JPA/값타입.md)
+  * [객체지향 쿼리 소개, JPQL](JPA/객체지향쿼리소개,JPQL.md)
+  * [스프링 데이터 JPA](JPA/스프링 데이터 JPA.md)
+  * [고급 주제와 성능 최적화](JPA/고급 주제와 성능 최적화.md)
+  * [트랜잭션과 락,2차 캐시](JPA/트랜잭션과 락,2차캐시)
+  
 * [DesignPattern](DesignPattern/README.md)
    * [데코레이터패턴](DesignPattern/데코레이터패턴.md)
 ## 프로젝트
