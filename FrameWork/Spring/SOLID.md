@@ -82,14 +82,14 @@ class PersonalTrainer{
 
 아래 그림을 보면
 
-https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/317a41b6-f3ee-4ccd-bf5d-7785547ef81a
+![스크린샷 2023-07-20 오전 12 39 33](https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/317a41b6-f3ee-4ccd-bf5d-7785547ef81a)
 
 그림을 보면 운전자가 2종이냐 1종이냐에 따라서 행동이 달라진다.
 이렇게 어떤 변화가 있을 때 바로 운전자에게 영향이 오는 것은 **OCP 원칙에 위배**된다.
 
 아래 그림은 **OCP 원칙**을 지켜서 만든 그림이다.
 
-https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/bdb8b6bc-8c5b-462a-a952-196eee9f7ac2
+![스크린샷 2023-07-20 오전 12 47 02](https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/bdb8b6bc-8c5b-462a-a952-196eee9f7ac2)
 
 이렇게 상위 클래스 또는 인터페이스를 중간에 두면 어떤 종류의 자동차가 들어와도 자동차에서 수정하여 사용할 수 있다.
 
@@ -100,8 +100,7 @@ https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/bdb8b6bc-8c5b-462
 
 아래는 **JDBC의 관계도** 그림이다.
 
-https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/64483f07-20a7-4ce5-9143-45b12b958bd6
-
+![Untitled](https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/64483f07-20a7-4ce5-9143-45b12b958bd6)
 그림을 보면 알겠지만, 데이터베이스가 Oracle에서 MySQL로 바뀌더라도 JDBC 설정만 바꿔주면 된다.
 
 즉, 자바 애플리케이션은 데이터베이스라고 하는 주변 변화에 닫혀 있고, 데이터베이스를 교체한다는 것은 데이터베이스가 자신의 확장에는 열려 있다는 것이다.
@@ -160,7 +159,7 @@ Interface Segregation Principle, 인터페이스 분리 원칙
 
 아래 그림은 ISP 원칙을 적용한 예시이다.
 
-https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/dc96e15d-1639-43b0-af34-dc32ab2d56c5
+![스크린샷 2023-07-20 오전 1 29 20](https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/dc96e15d-1639-43b0-af34-dc32ab2d56c5)
 
 즉, ISP란 **클라이언트의 목적과 용도에 적합한 인터페이스만을 제공**하는 것이다.
 
@@ -190,13 +189,13 @@ Dependency Inversion Principle, 의존 관계 역전 원칙
 
 아래 그림을 보면서 설명해보자.
 
-https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/052cff9e-7298-4caf-937b-cbf512d42c81
+![스크린샷 2023-07-20 오전 1 39 55](https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/052cff9e-7298-4caf-937b-cbf512d42c81)
 
 만약 바리스타 객체가 카페라떼 레시피라는 구체적인 클래스에 의존하면 어떻게 될까?
 이러면 다른 커피를 만들 때마다 바리스타 객체에서도 계속 같이 변경을 해야한다.
 이렇게 되면 DIP 원칙을 위반해 유연성을 떨어트린다.
 
-https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/ea0291b3-4ec5-4176-adb9-10979e842ada
+![스크린샷 2023-07-20 오전 1 45 32](https://github.com/mo2-Study-Group/StudyGroup/assets/112863029/ea0291b3-4ec5-4176-adb9-10979e842ada)
 
 위 그림처럼 바리스타 객체를 커피 레시피라는 인터페이스에 의존하도록 만들고, 커피 레시피 인터페이스를 구현하는 여러 레시피 클래스들을 만들면 DIP 원칙을 지키게 된다.
 이렇게 하면 커피 레시피가 변경이 필요해도 바리스타 객체의 변경을 필요로하지 않아 유연성과 확장성이 높아지게 된다.
