@@ -19,7 +19,7 @@
     * [객체지향 설계 5원칙 SOLID](FrameWork/Spring/SOLID.md)
     * [트랜잭션](FrameWork/Spring/Transactional.md)
     * [Spring MVC와 Dispatcher Servlet](FrameWork/Spring/SpringMVC.md)
-      
+    
 * [JPA](JPA/README.md)
   * [JPA란](JPA/JPA란.md)
   * [엔티티매핑](JPA/엔티티매핑.md)
@@ -30,6 +30,8 @@
   * [스프링 데이터 JPA](JPA/스프링데이터JPA.md)
   * [고급 주제와 성능 최적화](JPA/고급주제와성능최적화.md)
   * [트랜잭션과 락,2차 캐시](JPA/트랜잭션과락,2차캐시)
+  * [영속성 관리](JPA/영속성관리.md)
+      
   
 * [DesignPattern](DesignPattern/README.md)
    * [데코레이터패턴](DesignPattern/데코레이터패턴.md)
