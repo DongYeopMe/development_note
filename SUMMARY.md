@@ -41,6 +41,6 @@
 * [DesignPattern](DesignPattern/README.md)
    * [데코레이터패턴](DesignPattern/데코레이터패턴.md)
    * [전략패턴](DesignPattern/전략패턴.md)
-   * [템플릿 콜백,메소드패턴](DesignPattern/템플릿 콜백,메소드패턴.md)
+   * [템플릿 콜백,메소드패턴](DesignPattern/템플릿콜백,메소드패턴.md)
    * [프록시패턴](DesignPattern/프록시패턴.md)
 ## 프로젝트
