@@ -48,4 +48,5 @@
 * [학습기록](학습기록/README.md)
    * [네트워크핵심이론](학습기록/네트워크핵심이론/README.md)
       * [Broadcast](학습기록/네트워크핵심이론/Broadcast.md)
+      * [Encapsulation,Decapsulation](학습기록/네트워크핵심이론/En,Decapsulation.md)
 ## 프로젝트
