@@ -46,6 +46,6 @@
    * [템플릿 콜백,메소드패턴](DesignPattern/템플릿콜백,메소드패턴.md)
    * [프록시패턴](DesignPattern/프록시패턴.md)
 * [학습기록](학습기록/README.md)
-   * [네트워크핵심이론](DesignPattern/네트워크핵심이론/README.md)
-      * [Broadcast](DesignPattern/네트워크핵심이론/Broadcast.md)
+   * [네트워크핵심이론](학습기록/네트워크핵심이론/README.md)
+      * [Broadcast](학습기록/네트워크핵심이론/Broadcast.md)
 ## 프로젝트
