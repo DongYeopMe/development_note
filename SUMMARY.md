@@ -47,6 +47,12 @@
    * [프록시패턴](DesignPattern/프록시패턴.md)
 * [학습기록](학습기록/README.md)
    * [네트워크핵심이론](학습기록/네트워크핵심이론/README.md)
+      * [네트워크, 네트워킹 개념](학습기록/네트워크핵심이론/네트워크,네트워킹_개념.md)
       * [Broadcast](학습기록/네트워크핵심이론/Broadcast.md)
       * [Encapsulation,Decapsulation](학습기록/네트워크핵심이론/En,Decapsulation.md)
+      * [Host개념 및 구성 요소](학습기록/네트워크핵심이론/Host개념및구성요소.md)
+      * [IPv4 주소의 기본 구조](학습기록/네트워크핵심이론/IPv4주소의기본구조.md)
+      * [Layer와 Layered구조](학습기록/네트워크핵심이론/Layer와Layered구조.md)
+      * [계층간 데이터 단위](학습기록/네트워크핵심이론/계층간데이터단위.md)
+ 
 ## 프로젝트
