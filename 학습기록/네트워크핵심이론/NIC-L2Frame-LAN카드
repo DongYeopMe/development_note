@@ -1,0 +1,39 @@
+# NIC, L2 Frame, LAN 카드 그리고 MAC 주소
+
+## NIC + (L2) Frame + LAN card + MAC
+
+- **NIC**(Network Interface Card)는 흔히 **LAN**(Local Area Network) **카드**이다.
+    
+    컴퓨터가 네트워크에 연결되면 그때는 호스트를 한다.
+    
+    ![스크린샷 2023-11-27 오후 5.41.04.png](https://github.com/Heo-y-y/development-blog/assets/112863029/e3aa32ef-6756-45dc-893d-4e3bde271268)
+    
+    위 그림에서는 인터페이스가 2개이다. 
+    
+    예를 들어, 우리들 노트북에는 무선 랜카드는 무조건 하나가 있다. 만약 유선으로 되어 있지 않고, 무선으로 어딘가에 이제 액세스 포인트가 연결될 수도 있고, 이러한 상태에서 usb 유선 랜카드를 꽂으면, 네트워크 인터페이스가 2개가 되는 것은 시간 문제이다. 이 문제는 아주 흔하게 일어난다.
+    
+    **LAN**은 네트워크의 규모를 말할 때 **가장 작은 규모**이다. 규모가 제일 큰 건 **WAN**(Wide Area)이고, 그 외에 **MAN**이 있고, 그안에 **LAN**이 있다.
+    
+    ![스크린샷 2023-11-27 오후 5.50.18.png](https://github.com/Heo-y-y/development-blog/assets/112863029/2e8cba1e-4818-4f01-80fd-262c7211fcf3)
+    
+    그리고 현재 우리는 집에서 공유기 하나 정도는 다 쓰고 있는데, 이 공유기를 중심으로 태블릿 PC, 스마트폰, PC가 유선으로 붙기도 하고, IPTV 수신기 같은 것도 붙는다.
+    
+    그래서 이 모든 것들이 우리집 홈 네트워크가 되는데, 이 자체가 하나의 LAN이라고 생각하면 된다.
+    
+- 유/무선 NIC가 있지만 굳이 구별하지 않고, NIC라고 할 때가 많다.
+- NIC는 H/W이며 **MAC 주소**를 갖는다.
+    - MAC 주소는 NIC의 식별자
+
+### LAN 카드 종류
+
+![스크린샷 2023-11-27 오후 5.58.33.png](https://github.com/Heo-y-y/development-blog/assets/112863029/034bd37b-8f0c-4d48-ae1b-aac3d09275fd)
+
+여기서 단위가 좀 나오는데, 앞서서 패킷이라는 이야기를 했다.
+
+근데 이 **패킷**은 **L2에서 언급하는 인터넷에서의 단위**이다.
+
+우선 **L2 수준에서의 단위**가 있는데, 그것이 바로 **Frame**이다.
+
+**참고 자료**
+
+- [https://www.inflearn.com/course/lecture?courseSlug=네트워크-핵심이론-기초&unitId=126851](https://www.inflearn.com/course/lecture?courseSlug=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC%EC%9D%B4%EB%A1%A0-%EA%B8%B0%EC%B4%88&unitId=126851)
