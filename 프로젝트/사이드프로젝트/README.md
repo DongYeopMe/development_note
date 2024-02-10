@@ -4,7 +4,7 @@
   <img width="40%" src="https://github.com/codestates-seb/seb43_main_032/assets/118104644/a8786bc9-4904-4353-9cf4-ec91e8bf7b8c" alt="SIDEQUEST">
 </div>
 
-<h5 align="center">개발기간: 2023.04.17 ~ 2022.05.25</h5>
+<h5 align="center">개발기간: 2023.04.17 ~ 2023.05.25</h5>
 
 ---
 
