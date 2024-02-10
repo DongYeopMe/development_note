@@ -11,7 +11,8 @@
 
 - **팀 명 :** SIDE QUEST
 - **프로젝트 명 :** SIDE QUEST
-- - **배포 링크 :** <a href='https://sidequest.co.kr' target='_blank'>SIDE QUEST</a>
+- **배포 링크 :** <a href='https://sidequest.co.kr' target='_blank'>SIDE QUEST</a>
+- **작업 인원 :** 백엔드3명, 프론트3명
 
 ## ✨ Pages & Features
 |**HOME**|**LOGIN / SIGN IN**|
